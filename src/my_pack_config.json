@@ -1,10 +1,9 @@
 {
    "input_targets" : {
-           "my_pack" : "C:/MyAssets/MyInputTargetDir",
-           "my_second_pack" : "C:/MyAssets/MySecondInputDir"
+           "my_pack" : "C:/Resource_Management_CPP_Example/Assets/pack1"
     },
-   "output_dir_debug": "C:/MyProjects/MyGame/build/Debug",
-   "output_dir_release": "C:/MyProjects/MyGame/build/Release",
+   "output_dir_debug": "C:/Resource_Management_CPP_Example/build/Debug",
+   "output_dir_release": "C:/Resource_Management_CPP_Example/build/Release",
    "output_sub_dir": "MyGameData/PackedResources",
    "encryption_key": "MySecret_encryption_key123"
 }
