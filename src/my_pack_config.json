@@ -1,0 +1,10 @@
+{
+   "input_targets" : {
+           "my_pack" : "C:/MyAssets/MyInputTargetDir",
+           "my_second_pack" : "C:/MyAssets/MySecondInputDir"
+    },
+   "output_dir_debug": "C:/MyProjects/MyGame/build/Debug",
+   "output_dir_release": "C:/MyProjects/MyGame/build/Release",
+   "output_sub_dir": "MyGameData/PackedResources",
+   "encryption_key": "MySecret_encryption_key123"
+}
