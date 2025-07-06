@@ -1,0 +1,3 @@
+[submodule "ResourceManagement_CPP"]
+	path = ResourceManagement_CPP
+	url = https://github.com/ozgur-kalay/ResourceManagement_CPP.git
